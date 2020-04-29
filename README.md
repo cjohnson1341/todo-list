@@ -7,17 +7,17 @@ Created with the help of this tutorial: https://github.com/kevin-powell/todo-lis
 
 Future updates: 
 
-*Mobile-friendly
-*Numbering system
-*Edit names
-*Wrap text in box
-*Move lists
-*Add a notes/attachements
-*Export items to file
-*Undo
-*Sub lists for lists
-*Add due dates to tasks
-*Add upcoming due dates column
-*Move things from one list to another
-*Send list to phone
+* Mobile-friendly
+* Numbering system
+* Edit names
+* Wrap text in box
+* Move lists
+* Add a notes/attachements
+* Export items to file
+* Undo
+* Sub lists for lists
+* Add due dates to tasks
+* Add upcoming due dates column
+* Move things from one list to another
+* Send list to phone
 
